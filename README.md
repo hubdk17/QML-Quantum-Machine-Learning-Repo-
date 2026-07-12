@@ -1,0 +1,1 @@
+This Repo is made for the purpose of learning and understanding fundamental concepts of Quantum machine Learning. Visualizations have been put in wherever the need was felt. Newer files will be added over time. Last updated: 12/07/26. 
